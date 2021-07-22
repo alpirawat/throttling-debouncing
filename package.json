@@ -1,0 +1,26 @@
+{
+  "name": "throttling-debouncing",
+  "version": "1.0.0",
+  "description": "Throttling and debouncing to ease your code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alpirawat/throttling-debouncing.git"
+  },
+  "keywords": [
+    "Throttling",
+    "Debouncing",
+    "Limit",
+    "function",
+    "calls"
+  ],
+  "author": "Alpi Rawat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alpirawat/throttling-debouncing/issues"
+  },
+  "homepage": "https://github.com/alpirawat/throttling-debouncing#readme"
+}
